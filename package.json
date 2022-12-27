@@ -1,0 +1,23 @@
+{
+  "name": "camiseta-argentina",
+  "version": "1.0.0",
+  "description": "Script to check the availability of a product and size on the Adidas website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "adidas",
+    "argentina",
+    "jersey",
+    "camiseta",
+    "campeón"
+  ],
+  "author": "Sebastian Campos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "child_process": "^1.0.2"
+  }
+}
